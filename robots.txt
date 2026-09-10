@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://purankoul.github.io/revoko/sitemap.xml
+Sitemap: https://www.revokoin.com/sitemap.xml
