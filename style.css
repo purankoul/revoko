@@ -37,7 +37,7 @@ a{text-decoration:none;color:inherit}
 
 .brand-lockup span{
   font-family:Georgia,serif;
-  font-size:22px;
+  font-size:25px;
   letter-spacing:.32em;
   color:var(--gold);
 }
@@ -46,7 +46,7 @@ a{text-decoration:none;color:inherit}
   display:block;
   margin-top:7px;
   font-family:Arial,Helvetica,sans-serif;
-  font-size:7px;
+  font-size:8px;
   font-weight:600;
   letter-spacing:.18em;
   text-transform:uppercase;
