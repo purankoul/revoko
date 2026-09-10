@@ -26,6 +26,23 @@ a{text-decoration:none;color:inherit}
 .header.scrolled{background:rgba(12,33,28,.93);backdrop-filter:blur(14px);border-bottom:1px solid rgba(255,255,255,.08)}
 .nav-wrap{height:82px;display:flex;align-items:center;justify-content:space-between}
 .wordmark,.footer-wordmark{font-family:Georgia,serif;letter-spacing:.32em;color:var(--gold);font-size:22px}
+
+.brand-lockup{
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  line-height:1
+}
+
+.brand-lockup small{
+  margin-top:7px;
+  font-family:Arial,Helvetica,sans-serif;
+  font-size:8px;
+  font-weight:600;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  color:rgba(255,255,255,.72)
+}
 .nav{display:flex;align-items:center;gap:29px;font-size:12px;letter-spacing:.1em;text-transform:uppercase}
 .nav a{opacity:.82;transition:.2s}.nav a:hover{opacity:1;color:var(--gold)}
 .nav-cta{border:1px solid var(--gold);padding:10px 14px}
