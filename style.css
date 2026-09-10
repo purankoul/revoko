@@ -117,7 +117,7 @@ em{font-weight:400;color:var(--gold)}
 
 .approach-note{margin-top:32px;border-top:1px solid var(--line);padding-top:28px;font-family:Georgia,serif;font-style:italic;color:#d9cba9;font-size:20px}
 
-.teaser{padding:130px 0;background:var(--ivory)}
+.teaser{padding:110px 0;background:var(--ivory)}
 .teaser-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:80px;align-items:center}
 .teaser-image{margin:0}.teaser-image img{box-shadow:0 30px 80px rgba(17,17,17,.14)}
 .teaser-copy h2{font-size:clamp(54px,6vw,88px)}
@@ -200,7 +200,7 @@ em{font-weight:400;color:var(--gold)}
   }
 }
 .garden{
-  padding:145px 0;
+  padding:115px 0 90px;
   background:var(--ivory);
 }
 
@@ -265,7 +265,7 @@ em{font-weight:400;color:var(--gold)}
   }
 }
 .garden-gallery-section{
-  padding:120px 0 145px;
+  padding:90px 0 120px;
   background:var(--paper);
 }
 
