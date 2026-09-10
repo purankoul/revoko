@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://purankoul.github.io/revoko/sitemap.xml
