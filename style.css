@@ -127,16 +127,6 @@ em{font-weight:400;color:var(--gold)}
 .teaser-image{margin:0}.teaser-image img{box-shadow:0 30px 80px rgba(17,17,17,.14)}
 .teaser-copy h2{font-size:clamp(54px,6vw,88px)}
 
-.old-doon{min-height:82vh;position:relative;background:var(--forest-deep);color:#fff;display:flex;align-items:end;overflow:hidden}
-.old-doon-bg{position:absolute;inset:0;background:url("revoko-board.jpg") center/cover no-repeat;transform:scale(1.03)}
-.old-doon-shade{position:absolute;inset:0;background:linear-gradient(0deg,rgba(6,22,18,.96),rgba(6,22,18,.22) 65%,rgba(6,22,18,.28))}
-.old-doon-inner{position:relative;z-index:2;display:grid;grid-template-columns:.6fr 1.1fr .9fr;gap:45px;align-items:end;padding-bottom:80px}
-.place-label{font-size:10px;letter-spacing:.18em;color:var(--gold)}
-.place-title h2{font-size:clamp(68px,9vw,132px);margin-bottom:10px}
-.place-title p{margin:0;color:#d1bc8e}
-.place-copy{font-size:17px;color:#e3e0d7}
-.place-copy span{display:block;margin-top:25px;color:var(--gold);font-family:Georgia,serif;font-style:italic}
-
 .brand-world{padding:145px 0;background:var(--paper)}
 .brand-gallery{display:grid;grid-template-columns:1.35fr .65fr;gap:22px;align-items:stretch}
 .brand-gallery figure{margin:0;overflow:hidden;background:#172b25}
