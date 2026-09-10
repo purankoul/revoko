@@ -56,8 +56,7 @@ em{font-weight:400;color:var(--gold)}
 .gold-btn{display:inline-block;border:1px solid var(--gold);color:var(--gold);padding:14px 20px;text-transform:uppercase;letter-spacing:.14em;font-size:11px;transition:.2s}
 .gold-btn:hover{background:var(--gold);color:var(--forest-deep)}
 .signature{font-family:Georgia,serif;font-style:italic;color:#d5c192}
-.hero-monogram{align-self:end;margin-bottom:7vh;opacity:.42}
-.hero-monogram img{max-width:380px;margin-left:auto;mix-blend-mode:screen}
+.hero-monogram{display:none}
 .scroll-cue{position:absolute;bottom:26px;left:50%;z-index:3;transform:translateX(-50%);font-size:9px;letter-spacing:.22em;color:#d7c79e}
 .scroll-cue span{margin-left:8px}
 
