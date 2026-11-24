@@ -656,10 +656,10 @@ em{font-weight:400;color:var(--gold)}
 }
 
 .global-reference-head h3{
-  margin:0 0 28px;
-  font-size:56px;
-  line-height:1.02;
-  letter-spacing:-.035em;
+  margin:0 0 30px;
+  font-size:clamp(58px,5.2vw,72px);
+  line-height:.98;
+  letter-spacing:-.04em;
   color:var(--forest);
 }
 
