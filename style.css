@@ -140,9 +140,9 @@ em{font-weight:400;color:var(--gold)}
 .footer-top p{margin:12px 0}
 .footer-info{text-align:right}
 .footer-logo{
-  width:92px;
+  width:42px;
   height:auto;
-  margin:0 0 16px auto;
+  margin:0 0 12px auto;
   display:block;
 }
 .footer-info a{color:var(--gold)}
