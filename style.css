@@ -139,12 +139,6 @@ em{font-weight:400;color:var(--gold)}
 .footer-wordmark{font-size:31px}
 .footer-top p{margin:12px 0}
 .footer-info{text-align:right}
-.footer-logo{
-  width:42px;
-  height:auto;
-  margin:0 0 12px auto;
-  display:block;
-}
 .footer-info a{color:var(--gold)}
 .footer-bottom{margin-top:46px;padding-top:22px;border-top:1px solid rgba(255,255,255,.08);display:flex;justify-content:space-between;font-size:11px;letter-spacing:.05em}
 
