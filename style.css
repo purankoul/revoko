@@ -18,6 +18,21 @@ body{
 }
 img{display:block;width:100%}
 a{text-decoration:none;color:inherit}
+::selection{
+  background:var(--gold);
+  color:var(--forest-deep);
+}
+
+::-moz-selection{
+  background:var(--gold);
+  color:var(--forest-deep);
+}
+
+a:focus-visible,
+button:focus-visible{
+  outline:2px solid var(--gold);
+  outline-offset:3px;
+}
 .wrap{width:min(1240px,calc(100% - 48px));margin:auto}
 .skip-link{position:absolute;left:-9999px}
 .skip-link:focus{left:20px;top:20px;background:#fff;padding:10px;z-index:100}
